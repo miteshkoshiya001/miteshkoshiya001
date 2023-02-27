@@ -55,8 +55,6 @@
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.microsoft.com/en-in/sql-server?rtc=1"><img alt="SQL SERVER" src ="https://img.shields.io/badge/MICROSOFT%20SQL%20SERVER-CC2927?logo=microsoft%20sql%20server&logoColor=white"></a>
-	&emsp;
     <a href="https://www.mysql.com/"><img alt="MYSQL" src="https://img.shields.io/badge/MYSQL-%2300f.svg?logo=mysql&logoColor=white"></a>
 	&emsp;
     <a href="https://www.mysql.com/"><img alt="MONGODB" src="https://img.shields.io/badge/MONGODB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
