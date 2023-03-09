@@ -17,10 +17,6 @@
 
 <p align="left"> 
   &emsp;
-  <a href="https://php.net" target="_blank"> 
-     <img alt="PHP" src="https://img.shields.io/badge/C%23-%23239120.svg?logo=php&logoColor=white">
-   </a>
-  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
@@ -40,8 +36,6 @@
 
 ### 👉 Frameworks, Platforms and Libraries
 <p align="left">
-  &emsp;
-    <a href="https://dotnet.microsoft.com/en-us/"><img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?logo=.NET&logoColor=white"></a>
   &emsp;
     <a href="https://angular.io/"><img alt="ANGULAR" src="https://img.shields.io/badge/ANGULAR-%23DD0031.svg?logo=angular&logoColor=white"></a>
    &emsp;
